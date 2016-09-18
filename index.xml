@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iExpense</title>
-    <link>http://iexpense.github.io/</link>
+    <link>https://iexpense.github.io/</link>
     <description>Recent content on iExpense</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://iexpense.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iexpense.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
